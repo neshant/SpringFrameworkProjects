@@ -27,7 +27,14 @@ public class FileUploadController {
 		if (!file.isEmpty()) {
 			try {
 
+				long startTime = System.currentTimeMillis();
+
 				fileService.readFile(file);
+
+				long endTime = System.currentTimeMillis();
+
+				System.out.println("That took " + (endTime - startTime) + " milliseconds");
+				
 				
 				// byte[] bytes = file.getBytes();
 				// BufferedOutputStream stream = new BufferedOutputStream(new
