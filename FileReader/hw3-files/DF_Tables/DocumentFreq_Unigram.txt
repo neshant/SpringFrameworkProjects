@@ -1,0 +1,820 @@
+a --> 100-year_flood, 130th_meridian_east, 2
+about --> 100-year_flood, 130th_meridian_east, 2
+accessed --> 100-year_flood, 1
+account --> 100-year_flood, 130th_meridian_east, 2
+accounts --> 100-year_flood, 1
+accuracy --> 100-year_flood, 1
+across --> 130th_meridian_east, 1
+actual --> 100-year_flood, 1
+actuarial --> 100-year_flood, 1
+adaptation --> 100-year_flood, 1
+added --> 100-year_flood, 1
+addition --> 100-year_flood, 1
+additional --> 100-year_flood, 130th_meridian_east, 2
+adds --> 100-year_flood, 1
+advance --> 100-year_flood, 1
+age --> 130th_meridian_east, 1
+agency --> 100-year_flood, 1
+agree --> 100-year_flood, 130th_meridian_east, 2
+all --> 100-year_flood, 130th_meridian_east, 2
+also --> 100-year_flood, 1
+alsoedit --> 100-year_flood, 130th_meridian_east, 2
+always --> 100-year_flood, 1
+among --> 100-year_flood, 1
+amount --> 100-year_flood, 1
+amp --> 100-year_flood, 1
+amur --> 130th_meridian_east, 1
+an --> 100-year_flood, 1
+analysis --> 100-year_flood, 1
+and --> 100-year_flood, 130th_meridian_east, 2
+andrew --> 130th_meridian_east, 1
+annual --> 100-year_flood, 1
+another --> 100-year_flood, 1
+antarctic --> 130th_meridian_east, 1
+antarctica --> 130th_meridian_east, 1
+any --> 100-year_flood, 1
+application --> 100-year_flood, 1
+applied --> 100-year_flood, 1
+applies --> 100-year_flood, 1
+apply --> 100-year_flood, 130th_meridian_east, 2
+approach --> 100-year_flood, 1
+approximately --> 100-year_flood, 1
+arctic --> 130th_meridian_east, 1
+are --> 100-year_flood, 1
+area --> 100-year_flood, 1
+areas --> 100-year_flood, 1
+around --> 100-year_flood, 1
+article --> 100-year_flood, 130th_meridian_east, 2
+articles --> 130th_meridian_east, 1
+as --> 100-year_flood, 130th_meridian_east, 2
+asia --> 130th_meridian_east, 1
+associated --> 100-year_flood, 1
+association --> 100-year_flood, 1
+assumption --> 100-year_flood, 1
+assumptions --> 100-year_flood, 1
+assumptionsedit --> 100-year_flood, 1
+at --> 100-year_flood, 130th_meridian_east, 2
+attributionsharealike --> 100-year_flood, 130th_meridian_east, 2
+august --> 100-year_flood, 130th_meridian_east, 2
+australia --> 130th_meridian_east, 1
+australian --> 130th_meridian_east, 1
+authorities --> 130th_meridian_east, 1
+available --> 100-year_flood, 130th_meridian_east, 2
+average --> 100-year_flood, 1
+b --> 100-year_flood, 1
+bahasa --> 130th_meridian_east, 1
+banda --> 130th_meridian_east, 1
+base --> 100-year_flood, 1
+based --> 100-year_flood, 1
+basin --> 100-year_flood, 1
+basins --> 100-year_flood, 1
+basis --> 100-year_flood, 1
+bathurst --> 130th_meridian_east, 1
+be --> 100-year_flood, 130th_meridian_east, 2
+because --> 100-year_flood, 1
+become --> 100-year_flood, 1
+been --> 100-year_flood, 1
+before --> 100-year_flood, 1
+between --> 100-year_flood, 1
+binomial --> 100-year_flood, 1
+bnlmg --> 130th_meridian_east, 1
+book --> 100-year_flood, 130th_meridian_east, 2
+both --> 100-year_flood, 1
+boulder --> 100-year_flood, 1
+branch --> 100-year_flood, 1
+britannica --> 130th_meridian_east, 1
+broadly --> 100-year_flood, 1
+building --> 100-year_flood, 1
+bulletin --> 100-year_flood, 1
+but --> 100-year_flood, 1
+by --> 100-year_flood, 130th_meridian_east, 2
+c --> 100-year_flood, 1
+calculated --> 100-year_flood, 1
+cambridge --> 100-year_flood, 1
+can --> 100-year_flood, 1
+canberra --> 130th_meridian_east, 1
+cancer --> 130th_meridian_east, 1
+cannot --> 100-year_flood, 1
+capable --> 100-year_flood, 1
+capricorn --> 130th_meridian_east, 1
+carefully --> 100-year_flood, 1
+case --> 100-year_flood, 1
+categories --> 100-year_flood, 130th_meridian_east, 2
+cause --> 100-year_flood, 1
+causing --> 100-year_flood, 1
+center --> 100-year_flood, 1
+ceram --> 130th_meridian_east, 1
+chance --> 100-year_flood, 1
+change --> 100-year_flood, 1
+changes --> 100-year_flood, 130th_meridian_east, 2
+changing --> 100-year_flood, 1
+chapter --> 100-year_flood, 1
+china --> 130th_meridian_east, 1
+circle --> 130th_meridian_east, 1
+circles --> 130th_meridian_east, 1
+cite --> 100-year_flood, 130th_meridian_east, 2
+civil --> 100-year_flood, 1
+claimed --> 130th_meridian_east, 1
+climate --> 100-year_flood, 1
+coast --> 100-year_flood, 1
+coastal --> 100-year_flood, 1
+combinations --> 100-year_flood, 1
+come --> 100-year_flood, 1
+common --> 100-year_flood, 1
+commonly --> 100-year_flood, 1
+commons --> 100-year_flood, 130th_meridian_east, 2
+community --> 100-year_flood, 130th_meridian_east, 2
+comparison --> 100-year_flood, 1
+complete --> 100-year_flood, 1
+completeness --> 100-year_flood, 1
+comprehensive --> 100-year_flood, 1
+concept --> 100-year_flood, 1
+conclude --> 100-year_flood, 1
+conditions --> 100-year_flood, 1
+confidence --> 100-year_flood, 1
+consider --> 130th_meridian_east, 1
+considered --> 100-year_flood, 1
+considers --> 100-year_flood, 1
+consistently --> 100-year_flood, 1
+contact --> 100-year_flood, 130th_meridian_east, 2
+content --> 100-year_flood, 130th_meridian_east, 2
+contents --> 100-year_flood, 130th_meridian_east, 2
+contributions --> 100-year_flood, 130th_meridian_east, 2
+control --> 100-year_flood, 1
+conversely --> 100-year_flood, 1
+cookie --> 100-year_flood, 130th_meridian_east, 2
+coordinate --> 130th_meridian_east, 1
+coordinates --> 130th_meridian_east, 1
+correlated --> 100-year_flood, 1
+council --> 100-year_flood, 1
+country --> 130th_meridian_east, 1
+create --> 100-year_flood, 130th_meridian_east, 2
+created --> 100-year_flood, 1
+creative --> 100-year_flood, 130th_meridian_east, 2
+crowell --> 100-year_flood, 1
+current --> 100-year_flood, 130th_meridian_east, 2
+d --> 100-year_flood, 1
+damage --> 100-year_flood, 1
+dansk --> 130th_meridian_east, 1
+danube --> 100-year_flood, 1
+darby --> 130th_meridian_east, 1
+data --> 100-year_flood, 130th_meridian_east, 2
+database --> 100-year_flood, 1
+dates --> 130th_meridian_east, 1
+dawera --> 130th_meridian_east, 1
+dead --> 100-year_flood, 1
+december --> 130th_meridian_east, 1
+decreasing --> 100-year_flood, 1
+depth --> 100-year_flood, 1
+derived --> 100-year_flood, 1
+described --> 100-year_flood, 1
+desert --> 100-year_flood, 1
+design --> 100-year_flood, 1
+determines --> 100-year_flood, 1
+determining --> 100-year_flood, 1
+deutsch --> 100-year_flood, 1
+developers --> 100-year_flood, 130th_meridian_east, 2
+deviation --> 100-year_flood, 1
+different --> 100-year_flood, 1
+difficult --> 100-year_flood, 1
+dinicola --> 100-year_flood, 1
+direct --> 100-year_flood, 1
+disambiguation --> 100-year_flood, 1
+disasters --> 100-year_flood, 1
+discharges --> 100-year_flood, 1
+disclaimers --> 100-year_flood, 130th_meridian_east, 2
+displaystyle --> 100-year_flood, 1
+distribution --> 100-year_flood, 1
+dividing --> 100-year_flood, 1
+dmy --> 130th_meridian_east, 1
+doijcoastresd --> 100-year_flood, 1
+donate --> 100-year_flood, 130th_meridian_east, 2
+download --> 100-year_flood, 130th_meridian_east, 2
+downstream --> 100-year_flood, 1
+dr --> 100-year_flood, 1
+drain --> 100-year_flood, 1
+drainage --> 100-year_flood, 1
+drops --> 100-year_flood, 1
+during --> 100-year_flood, 1
+e --> 100-year_flood, 130th_meridian_east, 2
+each --> 100-year_flood, 1
+early --> 100-year_flood, 1
+easily --> 100-year_flood, 1
+east --> 130th_meridian_east, 1
+ed --> 100-year_flood, 1
+edit --> 100-year_flood, 130th_meridian_east, 2
+edited --> 100-year_flood, 130th_meridian_east, 2
+effects --> 100-year_flood, 1
+eg --> 100-year_flood, 1
+elevations --> 100-year_flood, 1
+encyclopdia --> 130th_meridian_east, 1
+encyclopedia --> 100-year_flood, 130th_meridian_east, 2
+engineering --> 100-year_flood, 1
+enough --> 100-year_flood, 1
+environment --> 100-year_flood, 1
+environmental --> 100-year_flood, 1
+ephemeral --> 100-year_flood, 1
+equator --> 130th_meridian_east, 1
+espaol --> 130th_meridian_east, 1
+established --> 100-year_flood, 1
+estimate --> 100-year_flood, 1
+estimated --> 100-year_flood, 1
+estimates --> 100-year_flood, 1
+etc --> 100-year_flood, 1
+evaluated --> 100-year_flood, 1
+even --> 100-year_flood, 1
+event --> 100-year_flood, 1
+events --> 100-year_flood, 130th_meridian_east, 2
+evidence --> 100-year_flood, 1
+example --> 100-year_flood, 1
+exceed --> 100-year_flood, 1
+exceedance --> 100-year_flood, 1
+exist --> 100-year_flood, 1
+exists --> 100-year_flood, 1
+expected --> 100-year_flood, 1
+export --> 130th_meridian_east, 1
+expressed --> 100-year_flood, 1
+extends --> 130th_meridian_east, 1
+external --> 100-year_flood, 1
+extreme --> 100-year_flood, 1
+eychaner --> 100-year_flood, 1
+f --> 100-year_flood, 1
+fact --> 100-year_flood, 1
+failure --> 100-year_flood, 1
+falls --> 100-year_flood, 1
+featured --> 100-year_flood, 130th_meridian_east, 2
+few --> 100-year_flood, 1
+fewer --> 100-year_flood, 1
+field --> 100-year_flood, 1
+figure --> 100-year_flood, 1
+file --> 100-year_flood, 130th_meridian_east, 2
+final --> 100-year_flood, 1
+first --> 100-year_flood, 1
+flood --> 100-year_flood, 1
+floodcontrol --> 100-year_flood, 1
+flooded --> 100-year_flood, 1
+flooding --> 100-year_flood, 1
+floodits --> 100-year_flood, 1
+floodplain --> 100-year_flood, 1
+floods --> 100-year_flood, 1
+floodsedit --> 100-year_flood, 1
+floodsmart --> 100-year_flood, 1
+flow --> 100-year_flood, 1
+flowrate --> 100-year_flood, 1
+flows --> 100-year_flood, 1
+followed --> 100-year_flood, 1
+for --> 100-year_flood, 1
+forecast --> 100-year_flood, 1
+forecasting --> 100-year_flood, 1
+form --> 100-year_flood, 1
+forms --> 130th_meridian_east, 1
+forth --> 100-year_flood, 1
+found --> 100-year_flood, 1
+foundation --> 100-year_flood, 130th_meridian_east, 2
+fourth --> 100-year_flood, 1
+franais --> 100-year_flood, 130th_meridian_east, 2
+free --> 100-year_flood, 130th_meridian_east, 2
+frequency --> 100-year_flood, 1
+from --> 100-year_flood, 130th_meridian_east, 2
+function --> 100-year_flood, 1
+future --> 100-year_flood, 1
+g --> 100-year_flood, 1
+gauge --> 100-year_flood, 1
+general --> 100-year_flood, 1
+generally --> 100-year_flood, 1
+geo --> 130th_meridian_east, 1
+geographic --> 130th_meridian_east, 1
+geological --> 100-year_flood, 1
+germany --> 100-year_flood, 1
+given --> 100-year_flood, 1
+global --> 100-year_flood, 1
+goal --> 100-year_flood, 1
+google --> 130th_meridian_east, 1
+gpx --> 130th_meridian_east, 1
+great --> 100-year_flood, 130th_meridian_east, 2
+greater --> 100-year_flood, 1
+greatest --> 100-year_flood, 1
+greenwich --> 130th_meridian_east, 1
+guidelines --> 100-year_flood, 1
+h --> 100-year_flood, 1
+half --> 100-year_flood, 1
+halmahera --> 130th_meridian_east, 1
+handbook --> 100-year_flood, 1
+has --> 100-year_flood, 1
+have --> 100-year_flood, 1
+hazard --> 100-year_flood, 1
+hazards --> 100-year_flood, 1
+heading --> 130th_meridian_east, 1
+heavy --> 100-year_flood, 1
+heilongjiang --> 130th_meridian_east, 1
+help --> 100-year_flood, 130th_meridian_east, 2
+here --> 100-year_flood, 130th_meridian_east, 2
+hidden --> 130th_meridian_east, 1
+highwater --> 100-year_flood, 1
+historical --> 100-year_flood, 1
+history --> 100-year_flood, 130th_meridian_east, 2
+hoboken --> 100-year_flood, 1
+holmes --> 100-year_flood, 1
+home --> 100-year_flood, 1
+hours --> 100-year_flood, 1
+however --> 100-year_flood, 1
+httpsenwikipediaorgwindexphptitlethmeridianeastampoldid --> 130th_meridian_east, 1
+httpsenwikipediaorgwindexphptitleyearfloodampoldid --> 100-year_flood, 1
+hurricanes --> 100-year_flood, 1
+hydraulic --> 100-year_flood, 1
+hydrologic --> 100-year_flood, 1
+hydrologically --> 100-year_flood, 1
+hydrology --> 100-year_flood, 1
+identical --> 100-year_flood, 1
+if --> 100-year_flood, 1
+ignored --> 100-year_flood, 1
+illinois --> 100-year_flood, 1
+ilokano --> 130th_meridian_east, 1
+implication --> 100-year_flood, 1
+importantly --> 100-year_flood, 1
+in --> 100-year_flood, 130th_meridian_east, 2
+inc --> 100-year_flood, 130th_meridian_east, 2
+includes --> 100-year_flood, 1
+incorrectly --> 100-year_flood, 1
+increasing --> 100-year_flood, 1
+independent --> 100-year_flood, 1
+indian --> 130th_meridian_east, 1
+indirect --> 100-year_flood, 1
+individual --> 100-year_flood, 1
+indonesia --> 130th_meridian_east, 1
+information --> 100-year_flood, 130th_meridian_east, 2
+inherent --> 100-year_flood, 1
+input --> 100-year_flood, 1
+inputs --> 100-year_flood, 1
+instantaneous --> 100-year_flood, 1
+insurance --> 100-year_flood, 1
+intensity --> 100-year_flood, 1
+interaction --> 100-year_flood, 130th_meridian_east, 2
+intergovernmental --> 100-year_flood, 1
+interpretation --> 100-year_flood, 1
+interval --> 100-year_flood, 1
+intervals --> 100-year_flood, 1
+into --> 100-year_flood, 1
+introduced --> 100-year_flood, 1
+inundation --> 100-year_flood, 1
+is --> 100-year_flood, 130th_meridian_east, 2
+island --> 130th_meridian_east, 1
+islands --> 130th_meridian_east, 1
+item --> 100-year_flood, 130th_meridian_east, 2
+its --> 100-year_flood, 1
+itself --> 100-year_flood, 1
+j --> 100-year_flood, 1
+january --> 100-year_flood, 130th_meridian_east, 2
+japan --> 130th_meridian_east, 1
+jh --> 100-year_flood, 1
+jilin --> 130th_meridian_east, 1
+journal --> 100-year_flood, 1
+jr --> 100-year_flood, 1
+jump --> 100-year_flood, 130th_meridian_east, 2
+junction --> 100-year_flood, 1
+just --> 130th_meridian_east, 1
+k --> 100-year_flood, 1
+kagoshima --> 130th_meridian_east, 1
+kaskaskia --> 100-year_flood, 1
+kg --> 100-year_flood, 1
+kikai --> 130th_meridian_east, 1
+kml --> 130th_meridian_east, 1
+known --> 100-year_flood, 1
+korea --> 130th_meridian_east, 1
+koshikijima --> 130th_meridian_east, 1
+kuchinoerabujima --> 130th_meridian_east, 1
+kuchinoshima --> 130th_meridian_east, 1
+kumamoto --> 130th_meridian_east, 1
+kuroshima --> 130th_meridian_east, 1
+kysh --> 130th_meridian_east, 1
+lake --> 100-year_flood, 1
+land --> 100-year_flood, 1
+languages --> 100-year_flood, 130th_meridian_east, 2
+laptev --> 130th_meridian_east, 1
+large --> 100-year_flood, 1
+larger --> 100-year_flood, 1
+largest --> 100-year_flood, 1
+last --> 100-year_flood, 130th_meridian_east, 2
+late --> 100-year_flood, 1
+later --> 100-year_flood, 1
+latitude --> 130th_meridian_east, 1
+least --> 100-year_flood, 1
+less --> 100-year_flood, 1
+lessons --> 100-year_flood, 1
+level --> 100-year_flood, 1
+license --> 100-year_flood, 130th_meridian_east, 2
+like --> 100-year_flood, 1
+likely --> 100-year_flood, 1
+line --> 130th_meridian_east, 1
+lines --> 130th_meridian_east, 1
+link --> 100-year_flood, 130th_meridian_east, 2
+links --> 100-year_flood, 130th_meridian_east, 2
+linksedit --> 100-year_flood, 1
+list --> 100-year_flood, 1
+lists --> 100-year_flood, 130th_meridian_east, 2
+lives --> 100-year_flood, 1
+living --> 100-year_flood, 1
+location --> 100-year_flood, 1
+locations --> 100-year_flood, 1
+log --> 100-year_flood, 130th_meridian_east, 2
+logged --> 100-year_flood, 130th_meridian_east, 2
+longer --> 100-year_flood, 1
+longest --> 100-year_flood, 1
+longitude --> 130th_meridian_east, 1
+low --> 100-year_flood, 1
+lw --> 100-year_flood, 1
+made --> 100-year_flood, 1
+magazine --> 100-year_flood, 1
+maidment --> 100-year_flood, 1
+main --> 100-year_flood, 130th_meridian_east, 2
+managers --> 100-year_flood, 1
+managing --> 100-year_flood, 1
+manner --> 100-year_flood, 1
+map --> 100-year_flood, 130th_meridian_east, 2
+mapped --> 100-year_flood, 1
+maps --> 100-year_flood, 1
+march --> 100-year_flood, 130th_meridian_east, 2
+mark --> 100-year_flood, 1
+maximum --> 100-year_flood, 1
+maxmin --> 100-year_flood, 1
+may --> 100-year_flood, 130th_meridian_east, 2
+mays --> 100-year_flood, 1
+mcgrawhill --> 100-year_flood, 1
+mean --> 100-year_flood, 1
+meaning --> 100-year_flood, 1
+means --> 100-year_flood, 1
+measured --> 100-year_flood, 1
+measurement --> 100-year_flood, 1
+melting --> 100-year_flood, 1
+menu --> 100-year_flood, 130th_meridian_east, 2
+meridian --> 130th_meridian_east, 1
+meridians --> 130th_meridian_east, 1
+method --> 100-year_flood, 1
+microformatted --> 130th_meridian_east, 1
+might --> 100-year_flood, 1
+mile --> 100-year_flood, 1
+miles --> 100-year_flood, 1
+minimum --> 100-year_flood, 1
+misool --> 130th_meridian_east, 1
+mississippi --> 100-year_flood, 1
+misunderstanding --> 100-year_flood, 1
+mobile --> 100-year_flood, 130th_meridian_east, 2
+model --> 100-year_flood, 1
+models --> 100-year_flood, 1
+months --> 100-year_flood, 1
+more --> 100-year_flood, 130th_meridian_east, 2
+most --> 100-year_flood, 1
+much --> 100-year_flood, 1
+must --> 100-year_flood, 1
+n --> 100-year_flood, 130th_meridian_east, 2
+nagasaki --> 130th_meridian_east, 1
+namespaces --> 100-year_flood, 130th_meridian_east, 2
+nation --> 100-year_flood, 1
+national --> 100-year_flood, 1
+nationwide --> 100-year_flood, 1
+natural --> 100-year_flood, 1
+navigation --> 100-year_flood, 130th_meridian_east, 2
+nbsp --> 100-year_flood, 130th_meridian_east, 2
+nbspkm --> 100-year_flood, 1
+near --> 100-year_flood, 1
+necessarily --> 100-year_flood, 1
+needed --> 100-year_flood, 1
+network --> 100-year_flood, 1
+new --> 100-year_flood, 1
+news --> 100-year_flood, 1
+next --> 100-year_flood, 1
+nfip --> 100-year_flood, 1
+no --> 100-year_flood, 1
+nominal --> 100-year_flood, 1
+nonprofit --> 100-year_flood, 130th_meridian_east, 2
+norsk --> 100-year_flood, 1
+north --> 130th_meridian_east, 1
+northcentral --> 100-year_flood, 1
+northern --> 130th_meridian_east, 1
+not --> 100-year_flood, 130th_meridian_east, 2
+notes --> 130th_meridian_east, 1
+number --> 100-year_flood, 1
+numerous --> 130th_meridian_east, 1
+oblast --> 130th_meridian_east, 1
+observed --> 100-year_flood, 1
+obtaining --> 100-year_flood, 1
+occur --> 100-year_flood, 1
+occurred --> 100-year_flood, 1
+occurring --> 100-year_flood, 1
+occurs --> 100-year_flood, 1
+ocean --> 100-year_flood, 130th_meridian_east, 2
+october --> 100-year_flood, 1
+of --> 100-year_flood, 130th_meridian_east, 2
+offer --> 100-year_flood, 1
+often --> 100-year_flood, 1
+on --> 100-year_flood, 130th_meridian_east, 2
+once --> 100-year_flood, 1
+one --> 100-year_flood, 1
+onehundredyear --> 100-year_flood, 1
+only --> 100-year_flood, 1
+or --> 100-year_flood, 130th_meridian_east, 2
+organization --> 100-year_flood, 130th_meridian_east, 2
+osm --> 130th_meridian_east, 1
+other --> 100-year_flood, 1
+others --> 100-year_flood, 1
+over --> 100-year_flood, 130th_meridian_east, 2
+own --> 100-year_flood, 1
+p --> 100-year_flood, 1
+pacific --> 130th_meridian_east, 1
+pack --> 100-year_flood, 1
+page --> 100-year_flood, 130th_meridian_east, 2
+pages --> 100-year_flood, 130th_meridian_east, 2
+panel --> 100-year_flood, 1
+part --> 130th_meridian_east, 1
+passau --> 100-year_flood, 1
+passes --> 130th_meridian_east, 1
+passing --> 130th_meridian_east, 1
+past --> 100-year_flood, 1
+pdf --> 100-year_flood, 130th_meridian_east, 2
+pe --> 100-year_flood, 1
+peak --> 100-year_flood, 1
+peleftleftfrac --> 100-year_flood, 1
+peoples --> 130th_meridian_east, 1
+percent --> 100-year_flood, 1
+perhaps --> 100-year_flood, 1
+period --> 100-year_flood, 1
+permanent --> 100-year_flood, 130th_meridian_east, 2
+permits --> 100-year_flood, 1
+personal --> 100-year_flood, 130th_meridian_east, 2
+physical --> 100-year_flood, 1
+place --> 130th_meridian_east, 1
+planning --> 100-year_flood, 1
+pole --> 130th_meridian_east, 1
+poleedit --> 130th_meridian_east, 1
+policy --> 100-year_flood, 130th_meridian_east, 2
+policymakers --> 100-year_flood, 1
+poorly --> 100-year_flood, 1
+population --> 100-year_flood, 1
+portal --> 100-year_flood, 130th_meridian_east, 2
+portugus --> 130th_meridian_east, 1
+position --> 130th_meridian_east, 1
+possible --> 100-year_flood, 1
+potentially --> 100-year_flood, 1
+prefecture --> 130th_meridian_east, 1
+presents --> 100-year_flood, 1
+press --> 100-year_flood, 1
+previously --> 100-year_flood, 1
+printable --> 100-year_flood, 130th_meridian_east, 2
+printexport --> 100-year_flood, 130th_meridian_east, 2
+privacy --> 100-year_flood, 130th_meridian_east, 2
+probability --> 100-year_flood, 1
+probabilityedit --> 100-year_flood, 1
+problem --> 100-year_flood, 1
+process --> 100-year_flood, 1
+processes --> 100-year_flood, 1
+produces --> 100-year_flood, 1
+product --> 100-year_flood, 1
+program --> 100-year_flood, 1
+provides --> 100-year_flood, 1
+psmsl --> 100-year_flood, 1
+public --> 100-year_flood, 1
+publishes --> 100-year_flood, 1
+purposes --> 100-year_flood, 1
+rain --> 100-year_flood, 1
+rainfall --> 100-year_flood, 1
+random --> 100-year_flood, 130th_meridian_east, 2
+ranged --> 100-year_flood, 1
+rare --> 100-year_flood, 1
+rarely --> 100-year_flood, 1
+rate --> 100-year_flood, 1
+rates --> 100-year_flood, 1
+rdf --> 130th_meridian_east, 1
+reach --> 100-year_flood, 1
+reaches --> 100-year_flood, 1
+read --> 100-year_flood, 130th_meridian_east, 2
+reasonable --> 100-year_flood, 1
+recent --> 100-year_flood, 130th_meridian_east, 2
+record --> 100-year_flood, 1
+recorded --> 100-year_flood, 1
+records --> 100-year_flood, 1
+recurrence --> 100-year_flood, 1
+references --> 100-year_flood, 1
+referencesedit --> 100-year_flood, 130th_meridian_east, 2
+referred --> 100-year_flood, 1
+region --> 100-year_flood, 1
+registered --> 100-year_flood, 130th_meridian_east, 2
+regulations --> 100-year_flood, 1
+regulatory --> 100-year_flood, 1
+related --> 100-year_flood, 130th_meridian_east, 2
+relates --> 100-year_flood, 1
+relatively --> 100-year_flood, 1
+relevant --> 100-year_flood, 1
+report --> 100-year_flood, 1
+reported --> 100-year_flood, 1
+reporting --> 100-year_flood, 1
+represents --> 100-year_flood, 1
+republic --> 130th_meridian_east, 1
+research --> 100-year_flood, 1
+reservoirs --> 100-year_flood, 1
+resources --> 100-year_flood, 1
+resulted --> 100-year_flood, 1
+resulting --> 100-year_flood, 1
+retrieved --> 100-year_flood, 130th_meridian_east, 2
+return --> 100-year_flood, 1
+reveal --> 100-year_flood, 1
+ries --> 100-year_flood, 1
+right --> 100-year_flood, 1
+risk --> 100-year_flood, 1
+risks --> 100-year_flood, 1
+river --> 100-year_flood, 1
+riverine --> 100-year_flood, 1
+rivers --> 100-year_flood, 1
+routinely --> 100-year_flood, 1
+rr --> 100-year_flood, 1
+rulemaking --> 100-year_flood, 1
+runoff --> 100-year_flood, 1
+russia --> 130th_meridian_east, 1
+s --> 130th_meridian_east, 1
+saga --> 130th_meridian_east, 1
+sakha --> 130th_meridian_east, 1
+same --> 100-year_flood, 1
+say --> 100-year_flood, 1
+scale --> 100-year_flood, 1
+science --> 100-year_flood, 1
+sciencebased --> 100-year_flood, 1
+sciencemagorg --> 100-year_flood, 1
+sea --> 100-year_flood, 130th_meridian_east, 2
+search --> 100-year_flood, 130th_meridian_east, 2
+second --> 100-year_flood, 1
+section --> 100-year_flood, 1
+see --> 100-year_flood, 130th_meridian_east, 2
+september --> 100-year_flood, 1
+seram --> 130th_meridian_east, 1
+series --> 100-year_flood, 1
+serious --> 100-year_flood, 1
+serua --> 130th_meridian_east, 1
+service --> 100-year_flood, 1
+sheet --> 100-year_flood, 1
+shimoshima --> 130th_meridian_east, 1
+should --> 100-year_flood, 1
+significantly --> 100-year_flood, 1
+similar --> 100-year_flood, 1
+similarly --> 100-year_flood, 1
+simplest --> 100-year_flood, 1
+simplify --> 100-year_flood, 1
+simultaneously --> 100-year_flood, 1
+since --> 100-year_flood, 1
+single --> 100-year_flood, 1
+site --> 100-year_flood, 130th_meridian_east, 2
+sites --> 100-year_flood, 1
+situation --> 100-year_flood, 1
+small --> 100-year_flood, 130th_meridian_east, 2
+smaller --> 100-year_flood, 1
+snow --> 100-year_flood, 1
+so --> 100-year_flood, 1
+some --> 100-year_flood, 1
+sons --> 100-year_flood, 1
+south --> 130th_meridian_east, 1
+southern --> 130th_meridian_east, 1
+southwest --> 100-year_flood, 1
+spatial --> 100-year_flood, 1
+special --> 100-year_flood, 130th_meridian_east, 2
+specific --> 100-year_flood, 1
+spring --> 100-year_flood, 1
+square --> 100-year_flood, 1
+st --> 130th_meridian_east, 1
+standard --> 100-year_flood, 1
+starting --> 130th_meridian_east, 1
+state --> 100-year_flood, 1
+statement --> 100-year_flood, 130th_meridian_east, 2
+states --> 100-year_flood, 1
+stationarity --> 100-year_flood, 1
+stationary --> 100-year_flood, 1
+statistical --> 100-year_flood, 1
+statistics --> 100-year_flood, 1
+store --> 100-year_flood, 130th_meridian_east, 2
+storm --> 100-year_flood, 1
+storms --> 100-year_flood, 1
+story --> 100-year_flood, 1
+stream --> 100-year_flood, 1
+streamflow --> 100-year_flood, 1
+streamstats --> 100-year_flood, 1
+strongly --> 100-year_flood, 1
+subject --> 100-year_flood, 1
+substantial --> 100-year_flood, 1
+such --> 100-year_flood, 1
+sufficient --> 100-year_flood, 1
+suggests --> 100-year_flood, 1
+summary --> 100-year_flood, 1
+summer --> 100-year_flood, 1
+supported --> 100-year_flood, 1
+surge --> 100-year_flood, 1
+survey --> 100-year_flood, 1
+sustainability --> 100-year_flood, 1
+svenska --> 100-year_flood, 1
+system --> 100-year_flood, 1
+systems --> 100-year_flood, 1
+t --> 100-year_flood, 130th_meridian_east, 2
+taken --> 100-year_flood, 1
+talk --> 100-year_flood, 130th_meridian_east, 2
+targeted --> 100-year_flood, 1
+taxpayers --> 100-year_flood, 1
+technical --> 100-year_flood, 1
+tenyear --> 100-year_flood, 1
+terms --> 100-year_flood, 130th_meridian_east, 2
+terrible --> 100-year_flood, 1
+territory --> 130th_meridian_east, 1
+test --> 100-year_flood, 1
+tested --> 100-year_flood, 1
+text --> 100-year_flood, 130th_meridian_east, 2
+th --> 130th_meridian_east, 1
+than --> 100-year_flood, 1
+that --> 100-year_flood, 130th_meridian_east, 2
+the --> 100-year_flood, 130th_meridian_east, 2
+their --> 100-year_flood, 1
+then --> 100-year_flood, 1
+theory --> 100-year_flood, 1
+there --> 100-year_flood, 1
+these --> 100-year_flood, 1
+they --> 100-year_flood, 1
+third --> 100-year_flood, 1
+this --> 100-year_flood, 130th_meridian_east, 2
+those --> 100-year_flood, 1
+though --> 100-year_flood, 1
+threshold --> 100-year_flood, 1
+through --> 100-year_flood, 130th_meridian_east, 2
+thunder --> 100-year_flood, 1
+tide --> 100-year_flood, 1
+time --> 100-year_flood, 1
+timing --> 100-year_flood, 1
+timor --> 130th_meridian_east, 1
+to --> 100-year_flood, 130th_meridian_east, 2
+tools --> 100-year_flood, 130th_meridian_east, 2
+total --> 100-year_flood, 1
+trademark --> 100-year_flood, 130th_meridian_east, 2
+trightrightn --> 100-year_flood, 1
+tropic --> 130th_meridian_east, 1
+trying --> 100-year_flood, 1
+typically --> 100-year_flood, 1
+uk --> 100-year_flood, 1
+uncertainties --> 100-year_flood, 1
+uncertainty --> 100-year_flood, 1
+uncertaintyedit --> 100-year_flood, 1
+under --> 100-year_flood, 130th_meridian_east, 2
+united --> 100-year_flood, 1
+university --> 100-year_flood, 1
+unknown --> 100-year_flood, 1
+upload --> 100-year_flood, 130th_meridian_east, 2
+urban --> 100-year_flood, 1
+url --> 100-year_flood, 1
+us --> 100-year_flood, 1
+use --> 100-year_flood, 130th_meridian_east, 2
+useedit --> 100-year_flood, 1
+uses --> 100-year_flood, 1
+using --> 100-year_flood, 130th_meridian_east, 2
+v --> 130th_meridian_east, 1
+valid --> 100-year_flood, 1
+value --> 100-year_flood, 1
+values --> 100-year_flood, 1
+variability --> 100-year_flood, 1
+variants --> 100-year_flood, 130th_meridian_east, 2
+variations --> 100-year_flood, 1
+version --> 100-year_flood, 130th_meridian_east, 2
+view --> 100-year_flood, 130th_meridian_east, 2
+views --> 100-year_flood, 130th_meridian_east, 2
+violated --> 100-year_flood, 1
+w --> 130th_meridian_east, 1
+was --> 100-year_flood, 130th_meridian_east, 2
+washes --> 100-year_flood, 1
+water --> 100-year_flood, 1
+watershed --> 100-year_flood, 1
+watersheds --> 100-year_flood, 1
+wave --> 100-year_flood, 1
+waves --> 100-year_flood, 1
+weather --> 100-year_flood, 1
+web --> 100-year_flood, 1
+well --> 100-year_flood, 1
+were --> 100-year_flood, 1
+west --> 130th_meridian_east, 1
+what --> 100-year_flood, 130th_meridian_east, 2
+when --> 100-year_flood, 1
+where --> 100-year_flood, 1
+which --> 100-year_flood, 1
+whichever --> 100-year_flood, 1
+while --> 100-year_flood, 1
+wikidata --> 100-year_flood, 130th_meridian_east, 2
+wikimedia --> 100-year_flood, 130th_meridian_east, 2
+wikipedia --> 100-year_flood, 130th_meridian_east, 2
+wiley --> 100-year_flood, 1
+will --> 100-year_flood, 1
+with --> 100-year_flood, 130th_meridian_east, 2
+within --> 100-year_flood, 1
+without --> 100-year_flood, 1
+words --> 100-year_flood, 1
+world --> 100-year_flood, 1
+worldwide --> 100-year_flood, 1
+would --> 100-year_flood, 1
+x --> 100-year_flood, 130th_meridian_east, 2
+xyear --> 100-year_flood, 1
+y --> 100-year_flood, 1
+year --> 100-year_flood, 1
+years --> 100-year_flood, 1
+yeartoyear --> 100-year_flood, 1
+york --> 100-year_flood, 1
+you --> 100-year_flood, 130th_meridian_east, 2
+yr --> 100-year_flood, 1
