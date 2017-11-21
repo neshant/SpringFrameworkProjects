@@ -1,4 +1,4 @@
-package lambda.doublecolon;
+package src.lambda.doublecolon;
 
 import java.util.Arrays;
 import java.util.List;
