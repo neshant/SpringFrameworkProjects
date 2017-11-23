@@ -1,6 +1,7 @@
 package com.companyname.stock.stockservice.resource;
 
 import java.io.IOException;
+import java.math.BigDecimal;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -21,28 +22,43 @@ import yahoofinance.YahooFinance;
 @RequestMapping("/rest/stock")
 public class StockResource {
 
+	private class Quote {
+		private String quote;
+		private BigDecimal price;
+
+		public Quote(String quote, BigDecimal price) {
+			this.quote = quote;
+			this.price = price;
+		}
+
+	}
+
 	@Autowired
 	RestTemplate restTemplate;
 
 	@GetMapping("/{username}")
-	public List<Stock> getStock(@PathVariable("username") final String userName) {
+	public void getStock(@PathVariable("username") final String userName) {
 		// List<String> quotes =//
 		// restTemplate.getForObject("http://localhost:8300/rest/db/" + userName,
 		// List.class);
 
-		ResponseEntity<List<String>> quoteResponse = restTemplate.exchange("http://localhost:8300/rest/db/"+userName,
+		// eureka will check in service registry for db-service
+		ResponseEntity<List<String>> quoteResponse = restTemplate.exchange("http://db-service/rest/db/" + userName,
 				HttpMethod.GET, null, new ParameterizedTypeReference<List<String>>() {
 				});
 
 		List<String> quotes = quoteResponse.getBody();
+quotes.forEach(item->System.out.println(getStockPrice(item)));
 
-		return quotes.stream().map(this::getStockPrice
-		// quote -> {
-		// return getStockPrice(quote);
-		// } // this is also a way of defining lambda
-
-		).collect(Collectors.toList());
-
+		//Stock stock = getStockPrice(quote);
+//		return quotes.stream().map(
+//				// this::getStockPrice
+//				quote ->
+//				{
+//					Stock stock = getStockPrice(quote);
+//					return new Quote(quote, stock.getQuote().getPrice());
+//				} // this is also a way of defining lambda
+//		).collect(Collectors.toList());
 	}
 
 	private Stock getStockPrice(String quote) {
@@ -56,3 +72,8 @@ public class StockResource {
 	}
 
 }
+
+
+/// 5-6 clothes which there 
+/// imporant  
+
