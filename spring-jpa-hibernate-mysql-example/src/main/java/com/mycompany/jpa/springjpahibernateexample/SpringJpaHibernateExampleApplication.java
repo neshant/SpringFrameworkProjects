@@ -1,13 +1,8 @@
 package com.mycompany.jpa.springjpahibernateexample;
 
-import java.util.ArrayList;
-import java.util.List;
-
+import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
-
-import com.mycompany.jpa.springjpahibernateexample.model.Habbit;
-import com.mycompany.jpa.springjpahibernateexample.model.Person;
 
 @EnableJpaRepositories(basePackages = "com.mycompany.jpa.springjpahibernateexample.repository")
 @SpringBootApplication
