@@ -2,14 +2,43 @@ package com.mycompany.fp;
 
 import java.util.Arrays;
 import java.util.List;
+import java.util.function.Consumer;
+import java.util.function.Function;
+import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
-public class MapperExample {
+public class MapperIntExample {
 
 	public static void main(String[] args) {
 
-		List<String> names = Arrays.asList("Peter", "sam", "Greg", "Ryan");	
+		List<String> names = Arrays.asList("Peter", "sam", "Greg", "Ryan");
 
+		
+
+		names.stream()
+		.filter(name -> !name.equalsIgnoreCase("sam"))
+		.map(new Function<String, User>() {
+
+			@Override
+			public User apply(String t) {
+
+				return new User(t);
+			}
+		})
+		.forEach(System.out::println);
+		
+		names.stream()
+		.filter(name -> !name.equalsIgnoreCase("sam"))
+		.map(name-> new User(name))
+		.forEach(System.out::println);//foreach is a terminal operation after this flow of 
+		//stream will stop no other operation can be perfomed after this.
+		
+		names.stream()
+		.filter(name -> !name.equalsIgnoreCase("sam"))
+		.map(name-> new User(name))
+		.forEach(System.out::println);
+		
+		
 	List<User>	list= names.stream()
 		.filter(name -> !name.equalsIgnoreCase("sam"))
 		.map(User::new)//calling the constructor using ajeeb way  calling new on object with double colon notation
@@ -17,20 +46,8 @@ public class MapperExample {
 	
 	System.out.println("-------------");
 	
-	
-	
-	int sum =list.stream()
-	.mapToInt(user-> user.getAge())
-	.sum();
-	
-	
-	int sum2 =list.stream()
-			.mapToInt(User::getAge)
-			.sum();//sum is a terminal operation
-	
-	System.out.println(sum +" "+ sum2);
-	
-	
+	list.stream()
+	.forEach(System.out::println);
 		
 	}
 	
@@ -39,7 +56,7 @@ public class MapperExample {
 
 	static class User {
 		private String name;
-		private Integer age=10;
+		private int age;
 
 		public User(String name) {
 			this.name = name;
