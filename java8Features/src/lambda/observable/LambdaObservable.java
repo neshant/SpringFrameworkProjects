@@ -9,6 +9,7 @@ import java.util.stream.Collectors;
 public class LambdaObservable {
 
 	
+//	https://www.tutorialspoint.com/java8/java8_lambda_expressions.htm
 	
 	/**
 	 * Observalable message board to which will notify all the observers of the change
